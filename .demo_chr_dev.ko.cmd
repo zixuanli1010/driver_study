@@ -1,0 +1,1 @@
+cmd_/home/zixuan/drv_study/demo_chr_dev.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/zixuan/drv_study/demo_chr_dev.ko /home/zixuan/drv_study/demo_chr_dev.o /home/zixuan/drv_study/demo_chr_dev.mod.o;  true
