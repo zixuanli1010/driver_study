@@ -1,0 +1,1 @@
+cmd_/home/zixuan/driver_study/qat_driver.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/zixuan/driver_study/qat_driver.ko /home/zixuan/driver_study/qat_driver.o /home/zixuan/driver_study/qat_driver.mod.o;  true
