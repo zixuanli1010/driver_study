@@ -1,1 +1,0 @@
-#This repo is used to help me understand and practice driver development.
